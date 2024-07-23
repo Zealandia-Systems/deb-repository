@@ -1,6 +1,0 @@
-Origin: . ZSOS
-Label: . ZSOS
-Archive: ZSOS
-Suite: ZSOS
-Architecture: arm64
-Component: main
