@@ -1,17 +1,17 @@
 Package: gladius-app
 Priority: optional
 Section: default
-Installed-Size: 187296
+Installed-Size: 187297
 Maintainer: Scott Mohekey <scott.mohekey@zealandia.systems>
 Architecture: arm64
 Version: 1.0.15
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
 Filename: pool/main/g/gladius-app/gladius-app_1.0.15_arm64.deb
-Size: 47920832
-MD5sum: 4aec9d078ad1c688594f4960df50b8b1
-SHA1: e09a9849fcdd8e2d7b272fdfddc07438fd015c7a
-SHA256: d0ca41ee6ca12f6331b5dbaca68b26358aba1162d16cdbb7e75c614b604376f1
-SHA512: b7b0dd3875207b589fc3d2bd95bf6aee378600776f349c47e51039d22b4ad3c1de0af6437bfe12604b40391531434c5c78765d589d71d78c813539ffa4e92e05
+Size: 47920732
+MD5sum: a8293903c5f26e6f2c55431ecf4c8082
+SHA1: 335df5df8191471f5cc9baa74ae85404af4a4eda
+SHA256: aab0727dfdfa6f3fa6dfc9ee560d93fb1ff786c26ebea86b3c23d587de3a00d2
+SHA512: 3e15bd8c8284a3dfc8f969500499d8b87bece73b2119ef5dddf74e1decf88837d3085f311a110d44d5b90e84aa4a5b6b1b43b345e0653bff338915ce507ed644
 Description: 
   CNC Milling Controller
 Homepage: https://github.com/Zealandia-Systems/Gladius
